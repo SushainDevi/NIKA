@@ -1,3 +1,5 @@
+
+
 ---
 
 # Project NIKA: The Geometric Mind
@@ -192,4 +194,5 @@ This repository contains the full evolutionary code base from the initial Symbol
 * **Key Finding:**
 * **Qwen 2.5:** 100% Pivot Rate (High Geometric Intelligence).
 * **DeepSeek-R1:** "Internal-External Dissociation"—the model questioned the toxic axiom internally but submitted to it externally ("Axiomatic Obedience").
+
 
